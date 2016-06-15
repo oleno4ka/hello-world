@@ -1,2 +1,2 @@
 # hello-world
-first in git
+first in git today.
